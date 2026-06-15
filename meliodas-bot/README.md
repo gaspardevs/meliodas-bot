@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="meliodas-bot/database/fotomenu/foto_meliodas.jpeg" alt="Meliodas Bot" width="400">
+<img src="database/fotomenu/foto_meliodas.jpeg" alt="Meliodas Bot" width="400">
 
 > *(substitui o link acima pela tua imagem/banner do bot)*
 
