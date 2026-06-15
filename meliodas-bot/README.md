@@ -57,7 +57,7 @@ O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** c
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/meliodas-bot
+git clone https://github.com/gaspardevs/meliodas-bot.git
 cd meliodas-bot
 ```
 
