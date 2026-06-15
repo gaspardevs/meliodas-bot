@@ -1,0 +1,40 @@
+{
+    "message": {
+        "bemvindo": "olá {user}, seja bem vindo ao nosso grupo {grupo}! espero que se divirta aqui :)",
+        "saida": "adeus {user}, esperamos que volte em breve :(",
+        "promovido": "parabéns {user}, você foi promovido a admin do grupo {grupo}! 👮",
+        "rebaixado": "infelizmente {user}, você foi rebaixado de admin do grupo {grupo}.",
+        "ativados": {
+            "bemvindo 1": "mensagem de boas vindas ativada com sucesso!",
+            "saida 1": "mensagem de despedida ativada com sucesso!",
+            "antilink 1": "anti link ativado com sucesso!",
+            "antilinkgp 1": "anti link de grupos ativado com sucesso!",
+            "antilinkhard 1": "anti link hard (ban automático) ativado com sucesso!",
+            "antipalavra 1": "anti palavra ativado com sucesso!",
+            "antispam 1": "anti spam ativado com sucesso!",
+            "antifake 1": "anti fake ativado com sucesso!",
+            "antivideo 1": "anti video ativado com sucesso!",
+            "antimeme 1": "anti meme ativado com sucesso!",
+            "antisticker 1": "anti sticker ativado com sucesso!",
+            "antivoice 1": "anti voice ativado com sucesso!",
+            "antiporn 1": "anti porn ativado com sucesso!",
+            "antidocumento 1": "anti documento ativado com sucesso!"
+        },
+        "desativados": {
+            "bemvindo 0": "mensagem de boas vindas desativada com sucesso!",
+            "saida 0": "mensagem de despedida desativada com sucesso!",
+            "antilink 0": "anti link desativado com sucesso!",
+            "antilinkgp 0": "anti link de grupos desativado com sucesso!",
+            "antilinkhard 0": "anti link hard desativado com sucesso!",
+            "antipalavra 0": "anti palavra desativado com sucesso!",
+            "antispam 0": "anti spam desativado com sucesso!",
+            "antifake 0": "anti fake desativado com sucesso!",
+            "antivideo 0": "anti video desativado com sucesso!",
+            "antimeme 0": "anti meme desativado com sucesso!",
+            "antisticker 0": "anti sticker desativado com sucesso!",
+            "antivoice 0": "anti voice desativado com sucesso!",
+            "antiporn 0": "anti porn desativado com sucesso!",
+            "antidocumento 0": "anti documento desativado com sucesso!"
+        }
+    }
+}
