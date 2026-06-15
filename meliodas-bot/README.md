@@ -4,9 +4,8 @@
 
 <br>
 
-<img src="database/fotomenu/foto_meliodas.jpeg" alt="Meliodas Bot" width="400">
+<img src="database/fotomenu/foto_meliodas.jpeg" alt="Meliodas Bot" width="80%" height="500">
 
-> *(substitui o link acima pela tua imagem/banner do bot)*
 
 <br>
 
@@ -29,7 +28,7 @@
 
 ## ⚔️ Sobre o Meliodas Bot
 
-O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** com a biblioteca `@whiskeysockets/baileys`. Criado por **Gaspar Devs**, oferece mais de **60 comandos** organizados em categorias: moderação, entretenimento, música, proteções automáticas e muito mais.
+O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** com a biblioteca `@whiskeysockets/baileys`. Criado por **Gaspar Devs**, oferece mais de **50 comandos** organizados em categorias: moderação, entretenimento, música, proteções automáticas e muito mais.
 
 ---
 
@@ -207,11 +206,15 @@ Ao iniciar pela primeira vez:
 
 ```
 meliodas-bot/
-├── 📄 index.js              ← Ficheiro principal
 ├── 📄 conncts.js            ← Conexão com WhatsApp
-├── 📄 meliodas.js           ← Handler de mensagens
+├── 📄 meliodas.js           ← Ficheiro principal
 ├── 📄 instalacao.js         ← Instalador automático
 ├── 📄 consts.js             ← Funções utilitárias
+├── 📄 leia-me               ← texto para informação
+├── 📄 README.md             ← readme do bot
+├── 📄 package-lock.json     ← parte do modulo da biblioteca baileys
+├── 📄 package.json          ← parte do modulo da biblioteca baileys
+├── 📄 node_modules          ← biblioteca do baileys
 ├── 📁 settings/
 │   ├── config.json          ← Configurações principais
 │   ├── config1.json         ← Subdonos
@@ -238,18 +241,6 @@ Nas mensagens de boas-vindas e saída podes usar:
 | `{grupo}` | Nome do grupo |
 
 Exemplo: `Olá {user}, bem-vindo ao {grupo}! 🎉`
-
----
-
-## 📜 Regras de Uso
-
-```
-1. PROIBIDO vender este bot.
-2. PROIBIDO repassar a base sem autorização.
-3. PROIBIDO remover os créditos do criador.
-4. PERMITIDO o uso pessoal.
-5. Não me responsabilizo por uso indevido.
-```
 
 ---
 
