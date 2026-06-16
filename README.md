@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="meliodas-bot/database/fotomenu/foto_meliodas.jpeg" alt="Meliodas Bot" width="80%" height="500">
+<img src="foto_meliodas.jpeg" alt="Meliodas Bot" width="80%" height="500">
 
 
 <br>
