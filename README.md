@@ -66,7 +66,11 @@ cd meliodas-bot
 node instalacao.js
 ```
 
-> SO INSTALA  O YT-DLP COM O COMANDO: pkg install python-yt-dlp
+### 3. Instala o yt-dpl
+
+```bash
+pkg install python-yt-dlp
+```
 > O script instala todas as dependências, cria as pastas e ficheiros necessários automaticamente.
 
 ### 3. Configurar o bot
