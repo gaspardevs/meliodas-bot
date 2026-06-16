@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=32&duration=4000&color=FF0000&center=true&vCenter=true&lines=⚔️+MELIODAS+BOT+⚔️;🤖+O+Melhor+Bot+de+ZAP;👑+by+Gaspar+Devs+%3C%2F%3E" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=32&duration=4000&color=FF0000&center=true&vCenter=true&lines=⚔️+MELIODAS+BOT+⚔️;🤖+O+Melhor+Bot;👑+by+Gaspar+Devs+%3C%2F%3E" />
 
 <br>
 
