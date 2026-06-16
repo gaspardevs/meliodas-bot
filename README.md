@@ -202,7 +202,7 @@ Ao iniciar pela primeira vez:
 
 ---
 
-## 📁 Estrutura de Ficheiros
+## 📁 Estrutura de Ficheiros depois das instalação.
 
 ```
 meliodas-bot/
