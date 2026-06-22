@@ -66,7 +66,7 @@ cd meliodas-bot
 node instalacao.js
 ```
 
-### 3. Instala o yt-dlp e ffmpeg
+### 3. Instala o yt-dlp e ffmpeg 
 
 ```bash
 pkg install python-yt-dlp
