@@ -71,6 +71,11 @@ node instalacao.js
 ```bash
 pkg install python-yt-dlp
 ```
+
+```bash
+pkg install ffmpeg
+```
+
 > O script instala todas as dependências, cria as pastas e ficheiros necessários automaticamente.
 
 ### 3. Configurar o bot
