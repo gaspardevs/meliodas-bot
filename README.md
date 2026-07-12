@@ -18,8 +18,9 @@
 
 <p>
 <img src="https://img.shields.io/badge/Autor-Gaspar%20Devs-orange?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/badge/Versão-1.0-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Versão-1.1-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/Licença-Pessoal-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/atualização-recente-red?style=for-the-badge">
 </p>
 
 </div>
