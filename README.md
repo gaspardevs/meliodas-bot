@@ -37,13 +37,14 @@ O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** c
 
 | Categoria | Descrição |
 |---|---|
-| 🛡️ **Proteções** | Antilink, Antifake, Antispam, Antipalavra, Antiporn e muito mais |
-| 👥 **Moderação** | Ban, Adv, Promover, Rebaixar, Mutar, Del |
-| 🎵 **Música** | Baixar áudio e vídeo do YouTube por nome ou link |
-| 🌟 **Membros** | Clima, Calculadora, Bíblia, Frases, Roleta |
-| 💎 **VIP** | Sistema VIP completo com comandos exclusivos |
-| ⚙️ **Configuração** | Prefixo, nome, foto do menu, subdonos e muito mais |
-| 🤖 **Bot** | Ligar/desligar, reiniciar, broadcast, eval |
+| 🛡️ **Proteções** | protege seu grupo de certos atos indesejaveis |
+| 👥 **Moderação** | pode ter mais controle dos membros do grupo |
+| 🎵 **Música** | ouvi musicas e videos sem sair do zap |
+| 🌟 **Membros** | comandos para os membros do grupo se divertir |
+| 💎 **VIP** | Sistema de vip com menus e comandos extras |
+| ⚙️ **Configuração** | configure seu bot do jeito que você quer |
+| 🤖 **Bot** | bot com 130 comandos para seu grupo |
+| 🔞 **menu18** | menu 18 adicionados para usuarios vips |
 | 👋 **Boas-vindas** | Mensagens de entrada e saída personalizáveis |
 
 ---
@@ -124,6 +125,8 @@ Ao iniciar pela primeira vez:
 | `+menu` | 📋 Menu principal |
 | `+menuadm` | 👮 Menu de administrador |
 | `+menudono` | 👑 Menu do dono |
+| `+menu18` | 🔞 menu +18 |
+| `+menudown` |  menu de downloads |
 
 ### 🛠️ Suporte
 | Comando | Descrição |
@@ -142,6 +145,12 @@ Ao iniciar pela primeira vez:
 | `+play2 <nome>` | 🎶 Baixar vídeo por nome |
 | `+ytplay3 <link>` | 🎼 Baixar áudio por link |
 
+###  downloads 
+| Comando | Descrição |
+|---|---|
+|  `+inst <link>` | baixa videos do instagram |
+| `+ttk <link>` | baixa videos do tiktok |
+
 ### 🌟 Membros
 | Comando | Descrição |
 |---|---|
@@ -152,6 +161,46 @@ Ao iniciar pela primeira vez:
 | `+roleta` | 🎰 Roleta de nomes |
 | `+totalcases` | 🗂️ Total de comandos |
 
+### comandos usuarios premium
+| Comando | Descrição |
+|---|---|
+|`+gif1` | manda gif |
+|`+gif2` | manda gif |
+|`+gif3` | manda gif |
+|`+gif4` | manda gif |
+|`+gif5` | manda gif |
+|`+gif6` | manda gif |
+|`+gif7` | manda gif |
+|`+gif8` | manda gif |
+|`+gif9` | manda gif |
+|`+gif10` | manda gif |
+|`+foto` | manda foto |
+|`+foto1` | manda fot |
+|`+foto2` | manda foto |
+|`+foto3` | manda foto |
+|`+foto4` | manda foto |
+|`+foto5` | manda foto |
+|`+foto6` | manda foto |
+|`+foto7` | manda foto |
+|`+foto8` | manda foto |
+|`+foto9` | manda foto |
+|`+foto10` | manda foto |
+|`+hentai` | manda video hentai |
+|`+hentai1` | manda video hentai |
+|`+hentai2` | manda video hentai |
+|`+hentai3` | manda video hentai |
+|`+hentai4` | manda video hentai |
+|`+hentai5` | manda video hentai |
+|`+hentai6` | manda video hentai |
+|`+hentai7` | manda video hentai |
+|`+hentai8` | manda video hentai |
+|`+hentai9` | manda video hentai |
+|`+hentai10` | manda video hentai |
+| `+lilix` | manda video da lilix |
+| `+katty` | manda video da katty |
+
+
+
 ### 🔒 Proteções *(Admin)*
 | Comando | Descrição |
 |---|---|
@@ -160,10 +209,8 @@ Ao iniciar pela primeira vez:
 | `+antispam on/off` | 📵 Anti spam |
 | `+antipalavra on/off` | 🛑 Anti palavrão |
 | `+antivideo on/off` | 📹 Anti vídeo |
-| `+antimeme on/off` | 🖼️ Anti meme |
 | `+antisticker on/off` | 📌 Anti figurinha |
 | `+antivoice on/off` | 🎙️ Anti áudio |
-| `+antiporn on/off` | 🔞 Anti pornografia |
 | `+antidoc on/off` | 📄 Anti documento |
 
 ### 👥 Moderação *(Admin)*
