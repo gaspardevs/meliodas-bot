@@ -29,7 +29,7 @@
 
 ## ⚔️ Sobre o Meliodas Bot
 
-O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** com a biblioteca `@whiskeysockets/baileys`. Criado por **Gaspar Devs**, oferece mais de **50 comandos** organizados em categorias: moderação, entretenimento, música, proteções automáticas e muito mais.
+O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** com a biblioteca `@whiskeysockets/baileys`. Criado por **Gaspar Devs**, oferece mais de **100 comandos** organizados em categorias: moderação, entretenimento, música, proteções automáticas e muito mais.
 
 ---
 
