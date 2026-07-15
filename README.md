@@ -184,8 +184,8 @@ Ao iniciar pela primeira vez:
 | `+totalcases` | 🗂️ Total de comandos |
 
 ### comandos usuarios premium
-| gifs | Comando | Descrição |
-|---|---|---|
+| Comando | Descrição |
+|---|---|
 |`+gif1` | manda gif |
 |`+gif2` | manda gif |
 |`+gif3` | manda gif |
