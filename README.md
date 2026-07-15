@@ -51,24 +51,37 @@ O **Meliodas Bot** é um bot de WhatsApp completo, desenvolvido em **Node.js** c
 
 ## 🚀 Instalação Rápida
 
+> ### _nota:_ segue os passos certinho para não ocorrer erro!
+
 ### Pré-requisitos
 - Node.js **18 ou superior**
 - npm
 - ffmpeg
 - yt-dlp *(para comandos de música)*
 
-### 1. Clonar o repositório
+
+### 1. entra na pasta para clonar o bot
+```bash
+cd /sdcard
+ou
+cd /sdcard/download
+```
+### 2. Clonar o repositório
 ```bash
 git clone https://github.com/gaspardevs/meliodas-bot.git
+```
+
+### 3. entra na pasta do bot
+```bash
 cd meliodas-bot
 ```
 
-### 2. Instalar dependências automaticamente
+### 4. Instalar dependências automaticamente
 ```bash
 node instalacao.js
 ```
 
-### 3. Instala o yt-dlp e ffmpeg 
+### 5. Instala o yt-dlp e ffmpeg (se necessario)
 
 ```bash
 pkg install python-yt-dlp
@@ -78,9 +91,9 @@ pkg install python-yt-dlp
 pkg install ffmpeg
 ```
 
-> O script instala todas as dependências, cria as pastas e ficheiros necessários automaticamente.
+> ### O script instala todas as dependências, cria as pastas e ficheiros necessários automaticamente.
 
-### 3. Configurar o bot
+### 6. Configurar o bot
 Edita o ficheiro `settings/config.json`:
 ```json
 {
@@ -93,7 +106,16 @@ Edita o ficheiro `settings/config.json`:
 }
 ```
 
-### 4. Iniciar o bot
+### 7. volta uma pasta 
+```bash
+cd ..
+```
+
+### 8. entra na pasta novamente!
+```bash
+cd meliodas-bot
+```
+### 9. Iniciar o bot
 ```bash
 npm start
 ```
@@ -162,8 +184,8 @@ Ao iniciar pela primeira vez:
 | `+totalcases` | 🗂️ Total de comandos |
 
 ### comandos usuarios premium
-| Comando | Descrição |
-|---|---|
+| gifs | Comando | Descrição |
+|---|---|---|
 |`+gif1` | manda gif |
 |`+gif2` | manda gif |
 |`+gif3` | manda gif |
@@ -198,8 +220,15 @@ Ao iniciar pela primeira vez:
 |`+hentai10` | manda video hentai |
 | `+lilix` | manda video da lilix |
 | `+katty` | manda video da katty |
-
-
+| `+yasmina` | manda video da yasmina |
+| `+maya` | manda video da maya |
+| `+julia` | manda video da julia |
+| `+eva` | manda video da eva |
+| `+skye` | manda video da skye |
+| `+erica` | manda video da erica |
+| `+west` | manda video da west |
+| `+sweetie` | manda video da sweetie |
+| `+miss` | manda video da miss |
 
 ### 🔒 Proteções *(Admin)*
 | Comando | Descrição |
